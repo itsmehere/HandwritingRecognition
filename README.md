@@ -1,6 +1,6 @@
 # Handwriting Recognition
 
-An AI to recognize digits from handwriting
+An AI to recognize handwritten digits
 
 ## TensorFlow:
 
@@ -32,7 +32,7 @@ Epoch 10/10
 313/313 - 1s - loss: 0.0895 - accuracy: 0.9825
 ```
 
-`hr_model` is a trained neural network that you can use with `recognition.py` to draw digits and classify them(unless you want to modify the `handwriting.py`` in which case you'd have to resave the model).
+`hr_model` is a trained neural network that you can use with `recognition.py` to draw digits and classify them(unless you want to modify the `handwriting.py` in which case you'd have to resave the model).
 
 ## [MNIST](https://en.wikipedia.org/wiki/MNIST_database):
 
